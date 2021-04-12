@@ -1,3 +1,16 @@
+//Lucas Ortiz Molina
+// DATE: April 11, 2021
+// 1-1a
+
+// ---------------- Game description ----------
+// I've added some things and made these changes to the criteria:
+// 1) I've included a PAUSE button to pause, instead of clicking the screen
+// 2) I've added a "Play Again" button to return to the game
+// 3) I've added a "Back" button (not screen) to return to Intro
+// 4) Emoji's in GAMEOVER page to illustrate results of the game. 
+//       The page is split into red and black sides.
+// ---------------------------------------------
+
 // import statements
 import ddf.minim.*;
 import ddf.minim.analysis.*;
